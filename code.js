@@ -7,7 +7,7 @@ fetch("peliculas.json")
       container.insertAdjacentHTML(
         "beforeend",
         `<aside class="afiche">
-        <a href="charlie.html">
+        <a href="/CHARLIE/charlie.html">
         <img src=${peli.imagen} alt="">
         <h2>${peli.nombre}</h2>
         <p>${peli.sinopsis}</p>

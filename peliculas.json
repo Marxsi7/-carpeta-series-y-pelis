@@ -1,3 +1,4 @@
+
 [
     {
         "imagen": "https://pics.filmaffinity.com/Charlie_y_la_f_brica_de_chocolate-369210884-large.jpg",
@@ -6,8 +7,7 @@
         "sinopsis": "El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.",
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly",
         "calificacion": "",
-        "directora": "",
-        "año": ""
+        "genero": "drama"
         
     },
     {
@@ -18,7 +18,8 @@
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly",
         "calificacion": "",
         "directora": "",
-        "año": ""
+        "año": "",
+        "genero": "drama"
     },
     {
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_977509-MLA32210303564_092019-O.jpg",
@@ -28,7 +29,8 @@
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly",
         "calificacion": "",
         "directora": "",
-        "año": ""
+        "año": "",
+        "genero": "drama"
     },
     {
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_943372-MLA44786363558_022021-O.jpg",
@@ -38,7 +40,8 @@
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly",
         "calificacion": "",
         "directora": "",
-        "año": ""
+        "año": "",
+        "genero": "drama"
     },
     {
         "imagen": "https://pbs.twimg.com/media/DxxaOupWoAALRBD.jpg:large",
@@ -48,7 +51,8 @@
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly",
         "calificacion": "",
         "directora": "",
-        "año": ""
+        "año": "",
+        "genero": "drama"
     },
     {
         "imagen": "http://cdn5.upsocl.com/wp-content/uploads/2018/07/Captura-de-pantalla-2017-07-04-a-las-16.50.38.jpg",
@@ -58,7 +62,8 @@
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly",
         "calificacion": "",
         "directora": "",
-        "año": ""
+        "año": "",
+        "genero": "drama"
     },
     {
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_808052-MLA42793635969_072020-O.jpg",
@@ -68,7 +73,8 @@
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly",
         "calificacion": "",
         "directora": "",
-        "año": ""
+        "año": "",
+        "genero": "drama"
     },
     {
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_870556-MLA43201144456_082020-O.jpg",
@@ -78,7 +84,8 @@
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly",
         "calificacion": "",
         "directora": "",
-        "año": ""
+        "año": "",
+        "genero": "drama"
     },
     {
         "imagen": "https://cinergiaonline.com/wp-content/uploads/2017/12/american-vandal.jpg",
@@ -88,7 +95,8 @@
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly",
         "calificacion": "",
         "directora": "",
-        "año": ""
+        "año": "",
+        "genero":"terror"
     },
     {
         "imagen": "http://cdn3.upsocl.com/wp-content/uploads/2018/07/Captura-de-pantalla-2017-07-04-a-las-16.51.34.jpg",
@@ -113,6 +121,7 @@
     {
         "imagen": "https://dariuslacroix.files.wordpress.com/2016/01/love.jpg?w=584",
         "nombre": "Love",
+         "genero": "fantasia",
         "duracion": "1h 54min",
         "sinopsis": "El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.",
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly",
@@ -152,7 +161,7 @@
     },
     {
         "imagen": "https://es.web.img3.acsta.net/pictures/19/11/26/09/04/1797971.jpg",
-        "nombre": "Charlie y la fábrica de chocolates",
+        "nombre": "Sex education",
         "duracion": "1h 54min",
         "sinopsis": "El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.",
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly",
@@ -161,8 +170,8 @@
         "año": ""
     },
     {
-        "imagen": "https://i.imgur.com/MEWUoLo.jpg",
-        "nombre": "Charlie y la fábrica de chocolates",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_870556-MLA43201144456_082020-O.jpg",
+        "nombre": "Enola Holmes",
         "duracion": "1h 54min",
         "sinopsis": "El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.",
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly",
@@ -172,7 +181,7 @@
     },
     {
         "imagen": "https://gcdn.emol.cl/arte-y-diseno-creativo/files/2020/02/afiches-disney-2.jpg",
-        "nombre": "Charlie y la fábrica de chocolates",
+        "nombre": "The Craft",
         "duracion": "1h 54min",
         "sinopsis": "El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.",
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly",
@@ -182,7 +191,7 @@
     },
     {
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_756261-MLA42285088778_062020-O.webp",
-        "nombre": "Charlie y la fábrica de chocolates",
+        "nombre": "Dark",
         "duracion": "1h 54min",
         "sinopsis": "El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.",
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly",
@@ -192,14 +201,14 @@
     },
     {
         "imagen": "https://2.bp.blogspot.com/-AxftVQUeOH4/Vkpbt3x-4pI/AAAAAAAANIs/pniF3EK0dhw/s1600/batman%2Bla%2Bserie%2Banimada%2Bphantom%2Bcity%2Bcreative%2Bmondo%2Bafiches%2Bgray%2Bghost%2B1batmanlaserieanimada.blog.spot.jpg",
-        "nombre": "Charlie y la fábrica de chocolates",
+        "nombre": "Webare the gray ghost",
         "duracion": "1h 54min",
         "sinopsis": "El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.",
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly"
     },
     {
         "imagen": "https://http2.mlstatic.com/D_NQ_NP_884678-MLA41952936485_052020-O.jpg",
-        "nombre": "Charlie y la fábrica de chocolates",
+        "nombre": "Lalaland",
         "duracion": "1h 54min",
         "sinopsis": "El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.",
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly",
@@ -208,8 +217,8 @@
         "año": ""
     },
     {
-        "imagen": "",
-        "nombre": "Charlie y la fábrica de chocolates",
+        "imagen": "https://pbs.twimg.com/media/ECl8AlcXsAA-PRo.jpg",
+        "nombre": "Room 104",
         "duracion": "1h 54min",
         "sinopsis": "El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.",
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly",
@@ -218,8 +227,8 @@
         "año": ""
     },
     {
-        "imagen": "",
-        "nombre": "Charlie y la fábrica de chocolates",
+        "imagen": "https://http2.mlstatic.com/D_784681-MLA42978134758_082020-F.webp",
+        "nombre": "The umbrela academy",
         "duracion": "1h 54min",
         "sinopsis": "El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.",
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly",
@@ -228,8 +237,8 @@
         "año": ""
     },
     {
-        "imagen": "",
-        "nombre": "Charlie y la fábrica de chocolates",
+        "imagen": "https://www.luismaram.com/wp-content/uploads/2013/04/american_horror_story_ver11.jpg",
+        "nombre": "",
         "duracion": "1h 54min",
         "sinopsis": "El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.El excéntrico Willy Wonka abre las puertas de su fábrica de chocolate a cinco suertudos niños. Quieran o no, aprenderán todos los secretos que esconde.",
         "protagonistas": "Johnny Depp,Freddie Highmore,David Kelly",
