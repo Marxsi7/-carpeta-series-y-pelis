@@ -1,0 +1,24 @@
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    column-gap: auto;
+    row-gap: 10px;
+  }
+  
+.header-content{
+  max-width: 3000px;
+  margin: auto 0;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+#Principal header div{
+  margin-top: 6px;
+}
+#form-buttons{
+  margin:0 10px;
+}
+.logo{
+  margin: 0 15px
+}
+

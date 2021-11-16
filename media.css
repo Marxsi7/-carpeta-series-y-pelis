@@ -1,0 +1,48 @@
+body{
+        background-color: black;
+    }
+
+main{
+    display: flex;
+    width: 100vw;
+}
+#movies, #comicas, #series{
+    width: 100%;
+}
+
+#SideBar{
+    height: 100vh;
+    width: 130px;
+}
+  
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+    column-gap: auto;
+    row-gap: 10px;
+  }
+ 
+.afiche:hover img{
+    height: 80%;
+}
+
+.afiche:hover p{/*En pc, solo queremos que se muestre el título, pues al hacer click en la película lo dirigirá a ver.html que contiene la info restante.*/
+    display: none;
+}
+
+title{/*Al hacer hover, la descripcion en vez de mostrarse como párrafo se muestra como title, pequeña nube emergente*/
+    display: initial;
+}
+
+.header-content{
+    max-width: 3000px;
+    margin: auto 0;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+  }
+#Principal header div{
+    margin-top: 10px;
+}
+
+
